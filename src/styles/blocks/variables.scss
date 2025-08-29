@@ -1,0 +1,17 @@
+$cell-size: 100px;
+$bgc-cell: #eee;
+$colums: 8;
+$pading: 20px;
+$cell-gap: 1px;
+$hover-cell-color: #FFBFCB;
+$cell-gap-count: 6;
+$days-count: 28, 29, 30, 31;
+$day: (
+  mon: 0,
+  tue: 1,
+  wed: 2,
+  thu: 3,
+  fri: 4,
+  sat: 5,
+  sun: 6,
+);
