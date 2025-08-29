@@ -1,12 +1,12 @@
 $cell-size: 100px;
 $bgc-cell: #eee;
-$colums: 8;
-$pading: 20px;
+$columns: 7;
+$padding: 10px;
 $cell-gap: 1px;
-$hover-cell-color: #FFBFCB;
+$hover-cell-color: #ffbfcb;
 $cell-gap-count: 6;
 $days-count: 28, 29, 30, 31;
-$day: (
+$weekdays: (
   mon: 0,
   tue: 1,
   wed: 2,
